@@ -22,7 +22,7 @@
 <div align="center">
   <!-- Profile -->
   <a href="https://github.com/johanLib">
-    <img src="https://img.shields.io/badge/Profile-Anass_Seghir-blue?style=for-the-badge&logo=profile" alt="ANASS Profile">
+    <img src="https://img.shields.io/badge/Profile-Anass_Seghir-green" alt="anass Profile">
   </a>
   <!-- Tools -->
   <a href="#">
