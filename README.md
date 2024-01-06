@@ -4,7 +4,7 @@
 
   <img src="images/nike.png" alt="Nike Swoosh" width="80">
 
-  <h2 align="center">Nike</h2>
+  <h2 align="center">Nike Zoom KD16</h2>
   <p align="center">
   <!-- to modify -->
     <a href="https://www.nike.com/"><strong>Nike's Official website</strong></a>
